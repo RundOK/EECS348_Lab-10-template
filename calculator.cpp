@@ -1,3 +1,12 @@
+//Program Name: EECS 348 Lab 10
+//Program Discription and Purpose: converting a string to a double and doing addition with it
+//Input: provided by user as a file
+//Output: formatted double and addition results
+//Collaborators: no collaborators
+//Sources: ChatGPT
+//Author Name: Rund Al-kofahi
+//Creation Date: 4/10/2025
+
 #include "calculator.hpp"  // header file
 #include <fstream>  // I/O
 #include <cctype>  // to check charecters
