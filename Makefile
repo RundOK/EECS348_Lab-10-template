@@ -9,3 +9,4 @@ main.o: main.cpp calculator.hpp
 
 calculator.o: calculator.cpp calculator.hpp
 	$(CC) $(CFLAGS) -c calculator.cpp
+
