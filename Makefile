@@ -1,5 +1,5 @@
 CC := g++
-CFLAGS := -Wall -std=c++17
+CFLAGS := -Wall
 
 calculator.exe: main.o calculator.o
 	$(CC) $(CFLAGS) -o main.o calculator.o
