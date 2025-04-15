@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 //Program Name: EECS 348 Lab 10 
-=======
-//Program Name: EECS 348 Lab 10
->>>>>>> fad0cff6bb3fabc4a2c99d325407d2c5c5086c4f
 //Program Discription and Purpose: converting a string to a double and doing addition with it
 //Input: provided by user as a file
 //Output: formatted double and addition results
